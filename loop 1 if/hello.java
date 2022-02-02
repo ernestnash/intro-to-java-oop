@@ -24,7 +24,7 @@ public class hello {
 			String j=" ";
 			//declaring a variable j which is a string
 			
-			while(!j.equals("quit"))/*loops until user types quit*/{
+			while(!j.equals("quit"))/*loops over and over until user types quit*/{
 				
 				System.out.print("input: ");
 				
