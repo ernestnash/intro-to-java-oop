@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package nashon;
 
 /**
@@ -10,9 +8,6 @@ package nashon;
 import java.util.Scanner;
 public class hello {
 
-	/**
-	 * @param args
-	 */
 
 	public static void main(String[] args) {
 		
@@ -24,7 +19,7 @@ public class hello {
 			String j=" ";
 			//declaring a variable j which is a string
 			
-			while(!j.equals("quit"))/*loops over and over until user types quit*/{
+			while(!j.equals("quit"))/*loops over and over until user no longer needs the service and types quit*/{
 				
 				System.out.print("input: ");
 				
