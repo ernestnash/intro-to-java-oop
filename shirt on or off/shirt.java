@@ -6,7 +6,8 @@ public class shirt {
 	
 	shirt(){
 		
-	}
+	}//constructor
+	
 	public static void putOn() {
 		System.out.println("Shirt is on");
 		
